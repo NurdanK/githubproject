@@ -5,5 +5,7 @@ public class Second_Class {
         System.out.println("new page second class");
         
         add new codes
+            String a ="java;
+            int b = 9;
     }
 }
